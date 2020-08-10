@@ -1,0 +1,457 @@
+
+***TESTING GENERIC CLASS***
+
+Random Name Drawing with Duplicates Allowed. Entries:
+Entry: Adam Zapel
+Entry: Al Dente
+Entry: Al Fresco
+Entry: Al K. Seltzer
+Entry: Alf A. Romeo
+Entry: Amanda Lynn
+Entry: Anita Job
+Entry: Anna Conda
+Entry: Anna Graham
+Entry: Anna Prentice 
+Entry: Anna Sasin
+Entry: Anne Teak
+Entry: B.A. Ware
+Entry: Barb Dwyer
+Entry: Barb E. Dahl
+Entry: Barbara Seville
+Entry: Barry Cade
+Entry: Bea Minor
+Entry: Dee Major
+Entry: Beau Tye
+Entry: Bill Board
+Entry: Cara Van
+Entry: Chris P. Bacon
+Entry: Constance Noring
+Entry: Crystal Ball
+Entry: Crystal Glass
+Entry: Earl Lee Riser
+Entry: Easton West 
+Entry: Ferris Wheeler
+Entry: Flint Sparks
+Entry: Franklin Stein 
+Entry: Gene Poole
+Entry: Heidi Clare
+Entry: Helen Back
+Entry: Helen Wiells
+Entry: Holly McRell
+Entry: Holly Wood
+Entry: Jack Pott
+Entry: Joe Kerr
+Entry: Joy Rider
+Entry: Justin Case
+Entry: Justin Time
+Entry: Kandi Apple
+Entry: Laura Norder
+Entry: Leigh King 
+Entry: Luke Warm
+Entry: Marsha Mellow
+Entry: Marshall Law
+Entry: Marty Graw
+Entry: Olive Branch
+Entry: Paige Turner
+Entry: Pepe Roni
+Entry: Price Wright
+Entry: Rocky Beach
+Entry: Sandy Beach
+Entry: Sal A. Mander
+Entry: Stanley Cupp
+Entry: Tom Morrow
+Entry: Warren Peace
+Entry: Will Power
+Entry: X. Benedict
+Entry: Pete Repeaty
+Entry: Pete Repeaty
+Entry: Pete Repeaty
+Entry: Pete Repeaty
+	Size is     65: 65
+	Randomly chosen winner with removal: Pete Repeaty
+	Size is now 64: 64
+
+Random Name Drawing with Duplicates NOT Allowed. Entries:
+Entry: Adam Zapel
+Entry: Al Dente
+Entry: Al Fresco
+Entry: Al K. Seltzer
+Entry: Alf A. Romeo
+Entry: Amanda Lynn
+Entry: Anita Job
+Entry: Anna Conda
+Entry: Anna Graham
+Entry: Anna Prentice 
+Entry: Anna Sasin
+Entry: Anne Teak
+Entry: B.A. Ware
+Entry: Barb Dwyer
+Entry: Barb E. Dahl
+Entry: Barbara Seville
+Entry: Barry Cade
+Entry: Bea Minor
+Entry: Dee Major
+Entry: Beau Tye
+Entry: Bill Board
+Entry: Cara Van
+Entry: Chris P. Bacon
+Entry: Constance Noring
+Entry: Crystal Ball
+Entry: Crystal Glass
+Entry: Earl Lee Riser
+Entry: Easton West 
+Entry: Ferris Wheeler
+Entry: Flint Sparks
+Entry: Franklin Stein 
+Entry: Gene Poole
+Entry: Heidi Clare
+Entry: Helen Back
+Entry: Helen Wiells
+Entry: Holly McRell
+Entry: Holly Wood
+Entry: Jack Pott
+Entry: Joe Kerr
+Entry: Joy Rider
+Entry: Justin Case
+Entry: Justin Time
+Entry: Kandi Apple
+Entry: Laura Norder
+Entry: Leigh King 
+Entry: Luke Warm
+Entry: Marsha Mellow
+Entry: Marshall Law
+Entry: Marty Graw
+Entry: Olive Branch
+Entry: Paige Turner
+Entry: Pepe Roni
+Entry: Price Wright
+Entry: Rocky Beach
+Entry: Sandy Beach
+Entry: Sal A. Mander
+Entry: Stanley Cupp
+Entry: Tom Morrow
+Entry: Warren Peace
+Entry: Will Power
+Entry: X. Benedict
+Entry: Pete Repeaty
+	Size is     62: 62
+	Randomly chosen winner with removal: Pete Repeaty
+	Size is now 61: 61
+	Randomly chosen winner without removal: Pete Repeaty
+	Size is now 61: 61
+
+Random Number Drawing with Duplicates Allowed: Entries:
+Entry: 242
+Entry: 720
+Entry: 666
+Entry: 267
+Entry: 408
+Entry: 848
+Entry: 329
+Entry: 688
+Entry: 108
+Entry: 533
+Entry: 361
+Entry: 227
+Entry: 842
+Entry: 152
+Entry: 525
+Entry: 918
+Entry: 529
+Entry: 131
+Entry: 137
+Entry: 638
+Entry: 790
+Entry: 156
+Entry: 682
+Entry: 91
+Entry: 507
+Entry: 837
+Entry: 915
+Entry: 355
+Entry: 190
+Entry: 236
+Entry: 802
+Entry: 250
+Entry: 461
+Entry: 644
+Entry: 649
+Entry: 631
+Entry: 296
+Entry: 974
+Entry: 320
+Entry: 350
+Entry: 207
+Entry: 133
+Entry: 863
+Entry: 21
+Entry: 10
+Entry: 637
+Entry: 65
+Entry: 190
+Entry: 848
+Entry: 39
+Entry: 205
+Entry: 736
+Entry: 86
+Entry: 452
+Entry: 766
+Entry: 234
+Entry: 617
+Entry: 299
+Entry: 530
+Entry: 181
+Entry: 575
+Entry: 457
+Entry: 768
+Entry: 757
+Entry: 232
+Entry: 4
+Entry: 506
+Entry: 524
+Entry: 594
+Entry: 988
+Entry: 898
+Entry: 987
+Entry: 282
+Entry: 327
+Entry: 121
+Entry: 654
+Entry: 174
+Entry: 207
+Entry: 75
+Entry: 34
+Entry: 438
+Entry: 969
+Entry: 366
+Entry: 805
+Entry: 292
+Entry: 901
+Entry: 192
+Entry: 986
+Entry: 777
+Entry: 509
+Entry: 296
+Entry: 208
+Entry: 254
+Entry: 548
+Entry: 405
+Entry: 62
+Entry: 836
+Entry: 413
+Entry: 772
+Entry: 878
+	Size is     100: 100
+	Randomly chosen winner with removal: 878
+	Size is now 99: 99
+	Randomly chosen winner without removal: 878
+	Size is now 99: 99
+
+***TESTING GENERIC METHOD***
+
+Random Name Drawing: 
+	Should be 5 unique winners:
+Entry: Adam Zapel
+Entry: Al Dente
+Entry: Al Fresco
+Entry: Al K. Seltzer
+Entry: Alf A. Romeo
+Entry: Amanda Lynn
+Entry: Anita Job
+Entry: Anna Conda
+Entry: Anna Graham
+Entry: Anna Prentice 
+Entry: Anna Sasin
+Entry: Anne Teak
+Entry: B.A. Ware
+Entry: Barb Dwyer
+Entry: Barb E. Dahl
+Entry: Barbara Seville
+Entry: Barry Cade
+Entry: Bea Minor
+Entry: Dee Major
+Entry: Beau Tye
+Entry: Bill Board
+Entry: Cara Van
+Entry: Chris P. Bacon
+Entry: Constance Noring
+Entry: Crystal Ball
+Entry: Crystal Glass
+Entry: Earl Lee Riser
+Entry: Easton West 
+Entry: Ferris Wheeler
+Entry: Flint Sparks
+Entry: Franklin Stein 
+Entry: Gene Poole
+Entry: Heidi Clare
+Entry: Helen Back
+Entry: Helen Wiells
+Entry: Holly McRell
+Entry: Holly Wood
+Entry: Jack Pott
+Entry: Joe Kerr
+Entry: Joy Rider
+Entry: Justin Case
+Entry: Justin Time
+Entry: Kandi Apple
+Entry: Laura Norder
+Entry: Leigh King 
+Entry: Luke Warm
+Entry: Marsha Mellow
+Entry: Marshall Law
+Entry: Marty Graw
+Entry: Olive Branch
+Entry: Paige Turner
+Entry: Pepe Roni
+Entry: Price Wright
+Entry: Rocky Beach
+Entry: Sandy Beach
+Entry: Sal A. Mander
+Entry: Stanley Cupp
+Entry: Tom Morrow
+Entry: Warren Peace
+Entry: Will Power
+Entry: X. Benedict
+Entry: Pete Repeaty
+Entry: Pete Repeaty
+Entry: Pete Repeaty
+Entry: Pete Repeaty
+	[Pete Repeaty, X. Benedict, Will Power, Warren Peace, Tom Morrow]
+	Size is now 60: 60
+
+Random Number Drawing: 
+	Should be 3 unique winners:
+Entry: 242
+Entry: 720
+Entry: 666
+Entry: 267
+Entry: 408
+Entry: 848
+Entry: 329
+Entry: 688
+Entry: 108
+Entry: 533
+Entry: 361
+Entry: 227
+Entry: 842
+Entry: 152
+Entry: 525
+Entry: 918
+Entry: 529
+Entry: 131
+Entry: 137
+Entry: 638
+Entry: 790
+Entry: 156
+Entry: 682
+Entry: 91
+Entry: 507
+Entry: 837
+Entry: 915
+Entry: 355
+Entry: 190
+Entry: 236
+Entry: 802
+Entry: 250
+Entry: 461
+Entry: 644
+Entry: 649
+Entry: 631
+Entry: 296
+Entry: 974
+Entry: 320
+Entry: 350
+Entry: 207
+Entry: 133
+Entry: 863
+Entry: 21
+Entry: 10
+Entry: 637
+Entry: 65
+Entry: 190
+Entry: 848
+Entry: 39
+Entry: 205
+Entry: 736
+Entry: 86
+Entry: 452
+Entry: 766
+Entry: 234
+Entry: 617
+Entry: 299
+Entry: 530
+Entry: 181
+Entry: 575
+Entry: 457
+Entry: 768
+Entry: 757
+Entry: 232
+Entry: 4
+Entry: 506
+Entry: 524
+Entry: 594
+Entry: 988
+Entry: 898
+Entry: 987
+Entry: 282
+Entry: 327
+Entry: 121
+Entry: 654
+Entry: 174
+Entry: 207
+Entry: 75
+Entry: 34
+Entry: 438
+Entry: 969
+Entry: 366
+Entry: 805
+Entry: 292
+Entry: 901
+Entry: 192
+Entry: 986
+Entry: 777
+Entry: 509
+Entry: 296
+Entry: 208
+Entry: 254
+Entry: 548
+Entry: 405
+Entry: 62
+Entry: 836
+Entry: 413
+Entry: 772
+	[772, 413, 836]
+	Size is now 96: 96
+
+Small Contest Drawing: 
+	Should be 3 unique winners:
+Entry: Winner1
+Entry: Winner2
+Entry: Winner3
+	[Winner3, Winner2, Winner1]
+	Size is now 0: 0
+
+Small Contest Repeat Drawing: 
+	Should be 3 unique winners:
+Entry: Winner1
+Entry: Winner1
+Entry: Winner1
+Entry: Winner2
+Entry: Winner2
+Entry: Winner2
+Entry: Winner2
+Entry: Winner3
+Entry: Winner3
+Entry: Winner3
+	[Winner3, Winner2, Winner1]
+	Size is now 7: 7
+
+Not Enough Entries Drawing: Code should take some logical action but should NOT return a list with duplicate winners or enter an infinite loop.
+Not Enough Entries. No Winners Choosen.
+[]
+
+Empty Drawing: Code should take some logical action but should NOT enter an infinite loop.
+Not Enough Entries. No Winners Choosen.
+[]
+
+Program complete!
