@@ -1,0 +1,51 @@
+Name: Pond
+Type: Fresh Water
+Status: BALANCED
+
+Name: River
+Type: Fresh Water
+Status: UNBALANCED
+
+Name: Rainforests
+Type: Terrestrial
+Status: IMBALANCED
+
+Name: Tundra
+Type: Terrestrial
+Status: IMBALANCED
+
+Name: Deserts
+Type: Terrestrial
+Status: BALANCED
+
+Name: Savannas
+Type: Terrestrial
+Status: UNBALANCED
+
+Name: Forests
+Type: Terrestrial
+Status: IMBALANCED
+
+Name: Grasslands
+Type: Terrestrial
+Status: BALANCED
+
+Name: Shallow Water
+Type: Ocean
+Status: BALANCED
+
+Name: Deep Water
+Type: Ocean
+Status: UNBALANCED
+
+Name: Warm Water
+Type: Ocean
+Status: IMBALANCED
+
+Name: Cold Water
+Type: Ocean
+Status: BALANCED
+
+Testing the equals method: 
+true
+false
