@@ -1,0 +1,69 @@
+This CSV file shows the Geography Ids and (population) Ids listed for record of monthly population estimates in the United States in 2018.
+There are records for 2010 - 2019, however. Assuming this data began in 2018, the ids are created based on monthly recordings throughout a year.
+This data comes from the United States Census Bureau Website - census.gov - American Fact Finder
+
+*********************************QUERY Question 1: HOW MANY COLLECTIONS ARE RECORDED ON THIS DATA FILE?
+There are 585 Collections on the list.
+
+*********************************QUERY Question 2: HOW MANY RECORDS ARE THERE FOR EACH YEAR ON THIS DATA FILE?
+There are 25290 collections for year, 2010.
+There are 30570 collections for year, 2011.
+There are 26970 collections for year, 2012.
+There are 23370 collections for year, 2013.
+There are 19770 collections for year, 2014.
+There are 16170 collections for year, 2015.
+There are 12570 collections for year, 2016.
+There are 8970 collections for year, 2017.
+There are 5370 collections for year, 2018.
+
+*********************************Testing Filling the List
+Filling the List: 196 milliseconds
+
+The first Collections is 
+GEO ID: ResPop-M42010
+    ID: Resident Population 2010 - April 1
+
+
+The last Collections is 
+GEO ID: HHPop-M122019
+    ID: Household Population 2019 - 1 - December 1
+
+
+*********************************Testing Find Collection in the List for ID
+Getting a collection near the middle of the list: 	3 milliseconds.
+Determining if a collection is on a list: 		0 milliseconds.
+Finding the collection with the loop 			1 milliseconds.
+
+GEO ID: ArmedForcesOverseas-M42010
+    ID: Resident Population Plus Armed Forces Overseas 2010 - April 1
+
+
+*********************************Testing Find Collection in the List for GEOGRAPHY ID
+Getting a collection near the middle of the list: 	0 milliseconds.
+Determining if a collection is on a list: 		17 milliseconds.
+Finding the collection with the loop 			0 milliseconds.
+
+GEO ID: ArmedForcesOverseas-M42010
+    ID: Resident Population Plus Armed Forces Overseas 2010 - April 1
+
+
+*********************************Testing Find Collection in the List with Iterator for GEOGRAPHY ID
+Getting a collection near the middle of the list: 	0 milliseconds.
+Determining if a collection is on a list: 		0 milliseconds.
+Finding the collection with the loop 			0 milliseconds.
+
+GEO ID: ArmedForcesOverseas-M42010
+    ID: Resident Population Plus Armed Forces Overseas 2010 - April 1
+
+
+*********************************Testing Filling the Map
+Filling the map: 			27 milliseconds.
+There are 585 key-value pairs.
+There are 585 Collections on the list.
+
+*********************************Testing the Find Collections in the Map for GEOGRAPHY ID
+
+GEO ID: CivilPop-M82010
+    ID: Civilian Population 2010 - August 1
+
+Filling the map: 			5 milliseconds.
